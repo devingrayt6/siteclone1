@@ -1,0 +1,59 @@
+.main-div{
+  padding: 1rem;
+}
+
+nav{
+  margin-bottom: 12vh;
+}
+
+.vertical-center{
+  margin-top: 2.5rem;
+}
+
+.bg-blue{
+  background-image: url("./blue.jpg");
+  color: white;
+  width: 100vw;
+  height: 100vh;
+}
+
+.container{
+  padding-bottom: 8rem;
+}
+
+.features{
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.card{
+  padding: 4rem;
+  border-style: none;
+}
+
+.darth-android{
+  width: 100%;
+}
+
+.img-text{
+  margin-top: 7rem;
+}
+
+.footer-img{
+  background-image: url("./blue.jpg");
+  color: white;
+  padding: 0;
+}
+
+.bg-grey{
+  background: rgb(37, 35, 35);
+  color: white;
+  padding: 5rem;
+}
+
+.small-font{
+  font-size: smaller;
+}
+.footer-logos{
+  font-size: larger;
+}
